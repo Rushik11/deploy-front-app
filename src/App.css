@@ -23,6 +23,7 @@
   font-size: calc(10px + 2vmin);
   color: white;
   border: 1px solid black;
+  font-size: large;
 }
 
 .App-link {
